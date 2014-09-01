@@ -1,13 +1,11 @@
 Dashboard-Lite
 ==============
 
-Twitch Dashboard in software form, all thanks go to Paibox
+Twitch Dashboard in software form, all thanks go to Paibox!
 
 Find more info on this Plugin at: 
-https://obsproject.com/forum/resources/directshow-audio-source-plugin.32/
-
-Discuss problems at: 
-https://obsproject.com/forum/threads/directshow-audio-source-plugin.12620/
+https://obsproject.com/forum/threads/tool-twitch-dashboard-lite.2288/
+also discuss your problems there.
 
 Again, I am not the author or creator of this Tool. Paibox created it and 
 I just got the code from him. I host it here so it will never get lost. 
