@@ -1,0 +1,6 @@
+h1. Sourcecode Backup of Dashboard-Lite
+
+Twitch Dashboard in software form, created by Paibox!
+
+I am not the author or creator of this Tool. Paibox created it and 
+I just got the code from him. I host it here so it will never get lost. 
